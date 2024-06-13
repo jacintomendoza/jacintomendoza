@@ -1,9 +1,6 @@
 ### Hi there, I'm Jacinto 👋
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning React
 - 📫 How to reach me: jacinto.josh.mendoza@gmail.com
-- ⚡ Fun fact: I'm a (future) marathon runner.  Currrently training at 15K levels.
 
 <!--
 **jacintomendoza/jacintomendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
